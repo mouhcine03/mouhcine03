@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently in 5th-year student in Software Engineering and Mobile Development<br>✨ Passionate about full-stack development, AI, and Big Data<br>🎯 Goals: Be Proficient in full-stack development, particularly with Spring and Angular</p>
+<p align="left">📚 I'm currently in 5th-year student in Software Engineering and Mobile Development<br>✨ Passionate about full-stack development<br>🎯 Goals: Be Proficient in full-stack development, particularly with Spring and Angular</p>
 
 ###
 
